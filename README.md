@@ -6,7 +6,7 @@ Hey there! 🌟 As a backend developer with three years of experience, I've been
 
 Currently, I'm on the lookout for fresh work opportunities, and I'm thrilled to see what the future holds. If you have any tips, suggestions, or opportunities you'd like to share, I'm all ears! Let's keep growing and learning together in this wonderful world of tech. 
 
-I look forward to collaborate on more open source projects and share my knowledge on 2023.😊
+I'm mostly working on private projects on gitLab how ever I look forward to collaborate on more open source projects and share my knowledge on 2023.😊
 </p>
 <hr>
 
