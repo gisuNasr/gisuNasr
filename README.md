@@ -32,5 +32,5 @@ I'm mostly working on private projects on gitLab how ever I look forward to coll
 <hr>
 
 ### :fire: Most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gisooNasr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gisuNasr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
