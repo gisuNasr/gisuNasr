@@ -31,14 +31,13 @@ I'm mostly working on private projects on gitLab how ever I look forward to coll
 </div>
 <hr>
 
-### :fire: Most used languages:
+### :fire Most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gisuNasr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
-### 📖: Articles:
-<br>
+<h4> 📑 Articles:</h4> 
 
-I would appreciate if you read my articles and give me feedbacks.
+I would appreciate if you read my articles and give me feedbacks.🌻
 <br>
 https://medium.com/@gisunasrollahi
 
