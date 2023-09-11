@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F3CDF7&vCenter=true&width=435&lines=Hello+World+!+I'm+gisoo+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F3CDF7&vCenter=true&width=435&lines=Hello+World+!+I'm+gisu+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <p >
 Hey there! 🌟 As a backend developer with three years of experience, I've been rocking it in the world of web development, especially with PHP (Laravel) and Node.js (Express.js) and using js on front with (Vue and Nuxt). It's been an amazing journey so far, working with different web design studios and gaining valuable skills along the way.
