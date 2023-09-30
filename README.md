@@ -50,6 +50,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gisunasrollahi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://medium.com/@gisunasrollahi" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="mailto:gisoonasrollahi@gmail.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/gmail-grey?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
+<a href="mailto:gisoonasrollahi@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-grey?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
 </p>
 
