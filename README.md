@@ -20,7 +20,7 @@
   <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white" />
-</p align="center">
+</p>
 
 <h6 align="center">Back End</h6>
 
