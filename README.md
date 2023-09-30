@@ -1,43 +1,55 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F3CDF7&vCenter=true&width=435&lines=Hello+World+!+I'm+gisu+%F0%9F%91%8B)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F3CDF7&vCenter=true&width=435&lines=Hello+World+!+I'm+gisu+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<p >
-Hey there! 🌟 As a backend developer with three years of experience, I've been rocking it in the world of web development, especially with PHP (Laravel) and Node.js (Express.js) and using js on front with (Vue and Nuxt). It's been an amazing journey so far, working with different web design studios and gaining valuable skills along the way.
-
-Currently, I'm on the lookout for fresh work opportunities, and I'm thrilled to see what the future holds. If you have any tips, suggestions, or opportunities you'd like to share, I'm all ears! Let's keep growing and learning together in this wonderful world of tech. 
-
-I'm mostly working on private projects on gitLab how ever I look forward to collaborate on more open source projects and share my knowledge on 2023.😊
+ I'm Gisu , a Fullstack developer with 3 years of exprience from <img src="https://github.com/gisuNasr/gisuNasr/assets/113020788/99f8ef5d-a45c-4a9b-a047-5077c1100689" width="25"/> 
 </p>
-<hr>
-
-### Skills:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDb"  alt="MongoDb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressJs" alt="expressJs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQl" alt="GraphQl" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" **alt="php" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="laravel" **alt="laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" **alt="vue" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="vue" **alt="vue" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="vue" **alt="vue" width="40" height="40"/>&nbsp;
-</div>
-<hr>
-
-### :fire Most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gisuNasr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
-<h4> 📑 Articles:</h4> 
 
-I would appreciate if you read my articles and give me feedbacks.🌻
-<br>
-https://medium.com/@gisunasrollahi
+<h3 align="center">Skills</h3>
+
+<h6 align="center">Front End</h6>
+
+<p align="center">
+  <img alt="Js" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Vue Js" src="https://img.shields.io/badge/Vue%20Js-grey?style=flat-square&logo=vue.js" />
+  <img alt="Nuxt Js" src="https://img.shields.io/badge/Nuxt%20Js-darkgreen?style=flat-square&logo=nuxt.js&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Css" src="https://img.shields.io/badge/Css3-blue?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white" />
+</p align="center">
+
+<h6 align="center">Back End</h6>
+
+<p align="center">
+  <img alt="Php" src="https://img.shields.io/badge/Php-grey?style=flat-square&logo=php" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Node Js" src="https://img.shields.io/badge/Node Js-green?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Nest Js" src="https://img.shields.io/badge/Nest Js-grey?style=flat-square&logo=nestjs&logoColor=red" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+</p>
+
+<h6 align="center">DataBases</h6>
+
+<p align="center">
+  <img alt="MySql" src="https://img.shields.io/badge/My Sql-grey?style=flat-square&logo=mysql&logoColor=E34F26" />
+  <img alt="Postgresql" src="https://img.shields.io/badge/Postgres-grey?style=flat-square&logo=postgresql&logoColor=blue" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/Mongo Db-grey?style=flat-square&logo=mongodb&logoColor=green" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-grey?style=flat-square&logo=redis&logoColor=red" />
+</p>
+
+
+<hr>
+<h3 align="center">  Where to find me</h3> 
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gisunasrollahi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://medium.com/@gisunasrollahi" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="mailto:gisoonasrollahi@gmail.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/gmail-grey?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
+</p>
 
