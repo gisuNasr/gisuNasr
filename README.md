@@ -1,7 +1,8 @@
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F3CDF7&vCenter=true&width=435&lines=Hello+World+!+I'm+gisu+%F0%9F%91%8B)](https://git.io/typing-svg)
-
- I'm Gisu , a Fullstack developer with 3 years of exprience from <img src="https://github.com/gisuNasr/gisuNasr/assets/113020788/99f8ef5d-a45c-4a9b-a047-5077c1100689" width="25"/> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6500&pause=1000&color=F71321&background=60FFA600&wight=700&center=true&vCenter=true&repeat=false&width=1000&height=30&lines=Hello+World!+I'm+Gisu+%F0%9F%91%8B)](https://git.io/typing-svg)
+<br/>
+<p align="center">
+ A Fullstack developer with 3 years of exprience from <img src="https://github.com/gisuNasr/gisuNasr/assets/113020788/99f8ef5d-a45c-4a9b-a047-5077c1100689" width="25"/> 
 </p>
 
 <hr>
