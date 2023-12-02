@@ -21,7 +21,6 @@ An individual with a two-year background as a Fullstack developer.
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/Css3-blue?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
@@ -30,8 +29,6 @@ An individual with a two-year background as a Fullstack developer.
 <p align="center">
   <img alt="Php" src="https://img.shields.io/badge/Php-grey?style=flat-square&logo=php" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="Node Js" src="https://img.shields.io/badge/Node Js-green?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Nest Js" src="https://img.shields.io/badge/Nest Js-grey?style=flat-square&logo=nestjs&logoColor=red" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
@@ -39,7 +36,6 @@ An individual with a two-year background as a Fullstack developer.
 
 <p align="center">
   <img alt="MySql" src="https://img.shields.io/badge/My Sql-grey?style=flat-square&logo=mysql&logoColor=E34F26" />
-  <img alt="Postgresql" src="https://img.shields.io/badge/Postgres-grey?style=flat-square&logo=postgresql&logoColor=blue" />
   <img alt="MongoDB" src="https://img.shields.io/badge/Mongo Db-grey?style=flat-square&logo=mongodb&logoColor=green" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-grey?style=flat-square&logo=redis&logoColor=red" />
 </p>
