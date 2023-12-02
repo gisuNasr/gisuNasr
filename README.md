@@ -17,9 +17,11 @@ An individual with a two-year background as a Fullstack developer.
   <img alt="Js" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Vue Js" src="https://img.shields.io/badge/Vue%20Js-grey?style=flat-square&logo=vue.js" />
   <img alt="Nuxt Js" src="https://img.shields.io/badge/Nuxt%20Js-darkgreen?style=flat-square&logo=nuxt.js&logoColor=white" />
+  <br/>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/Css3-blue?style=flat-square&logo=css3&logoColor=white" />
+  <br/>
   <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
