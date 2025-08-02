@@ -29,6 +29,7 @@ An individual with a three-year background as a Fullstack developer.
 <h6 align="center">Back End</h6>
 
 <p align="center">
+  <img alt="Golang" src="https://img.shields.io/badge/Golang-grey?style=flat-square&logo=go" />
   <img alt="Php" src="https://img.shields.io/badge/Php-grey?style=flat-square&logo=php" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
@@ -49,7 +50,8 @@ An individual with a three-year background as a Fullstack developer.
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gisunasrollahi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/gisunasrollahi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://x.com/dreamygisu" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-black?logo=x&style=for-the-badge" /></a> 
 <a href="https://medium.com/@gisunasrollahi" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="mailto:gisoonasrollahi@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-grey?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
 </p>
