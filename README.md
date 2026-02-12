@@ -1,58 +1,60 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6500&pause=1000&color=F71321&background=60FFA600&wight=700&center=true&vCenter=true&repeat=false&width=1000&height=30&lines=Hello+World!+I'm+Gisu+%F0%9F%91%8B)](https://git.io/typing-svg)
-<br/>
+
 <p align="center">
-An individual with a four-year background as a Backend developer.
-<!--  from <img src="https://github.com/gisuNasr/gisuNasr/assets/113020788/99f8ef5d-a45c-4a9b-a047-5077c1100689" width="25"/> 
-  -->
+  <b>A Backend Engineer who loves Clean Code, Warm Cookies, and Purring Cats. 🐾</b>
+</p>
+
+<p align="center">
+  Hi there! I'm Gisu. With over 4 years of experience 
+  in the <b>PHP/Laravel</b> ecosystem, I'm currently having a blast scaling high-performance 
+  services with <b>Golang</b>.
 </p>
 
 <hr>
 
-<h3 align="center">Skills</h3>
+### 🛠 My Toolbox
 
-<h6 align="center">Front End</h6>
+#### 🏗 How I Think (Architecture)
+I'm a big fan of **Domain-Driven Design (DDD)** and **Clean Architecture**. I believe code should be as readable as a good book and as reliable as a Swiss watch.
+- **Principles:** SOLID, OOP, Design Patterns.
+- **Quality:** Strict **TDD** practitioner (because sleeping well at night matters!).
+- **Systems:** Microservices, Distributed Transactions, and Modular Monoliths.
 
-<p align="center">
-  <img alt="Js" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Vue Js" src="https://img.shields.io/badge/Vue%20Js-grey?style=flat-square&logo=vue.js" />
-  <img alt="Nuxt Js" src="https://img.shields.io/badge/Nuxt%20Js-darkgreen?style=flat-square&logo=nuxt.js&logoColor=white" />
-  <br/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Css" src="https://img.shields.io/badge/Css3-blue?style=flat-square&logo=css3&logoColor=white" />
-  <br/>
-  <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white" />
+#### 🚀 Languages I Speak
+<p align="left">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="Gin" src="https://img.shields.io/badge/Gin-0081CB?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
-<h6 align="center">Back End</h6>
-
-<p align="center">
-  <img alt="Golang" src="https://img.shields.io/badge/Golang-grey?style=flat-square&logo=go" />
-  <img alt="Php" src="https://img.shields.io/badge/Php-grey?style=flat-square&logo=php" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-</p>
-
-<h6 align="center">DataBases</h6>
-
-<p align="center">
-  <img alt="MySql" src="https://img.shields.io/badge/My Sql-grey?style=flat-square&logo=mysql&logoColor=E34F26" />
+#### 💾 Data & Infra
+<p align="left">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/Mongo Db-grey?style=flat-square&logo=mongodb&logoColor=green" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-grey?style=flat-square&logo=redis&logoColor=red" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
+<hr>
+
+### 🧁 Beyond the Code
+
+When I'm not debugging or designing microservices, you'll probably find me:
+
+- 🐱 **Cat-sitting:** I'm a proud cat enthusiast. My cats are the real "supervisors" of my code—they usually approve my PRs by walking across my keyboard.
+- 🍪 **Baking:** I treat my kitchen like my codebase. Everything must be precisely measured, well-structured, and the end result should always bring a smile to people's faces. 
+- 📚 **Learning:** Currently diving deep into Computer Science and sharpening my English skills (C1 and counting!).
 
 <hr>
-<h3 align="center">  Where to find me</h3> 
 
+### 📫 Let's Chat!
 
+I’m always open to talking about **Backend Architecture**, **Golang**, or even sharing my favorite **Recipes**. 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gisunasrollahi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://x.com/dreamygisu" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-black?logo=x&style=for-the-badge" /></a> 
-<a href="https://medium.com/@gisunasrollahi" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gisunasrollahi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 <a href="mailto:gisoonasrollahi@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-grey?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
 </p>
-
